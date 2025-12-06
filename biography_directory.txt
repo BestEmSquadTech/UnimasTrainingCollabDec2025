@@ -2,3 +2,8 @@ Ng Boon Khai
     - Born: 2025, Jakarta, Indonesia
     - Hobby: Basketball
     - Profession: Student
+
+Neasthy Laade
+    - Born: 2004, Bintulu, Sarawak
+    - Hobby: Basketball
+    - Profession: Student
