@@ -2,3 +2,8 @@ Ng Boon Khai
     - Born: 2025, Jakarta, Indonesia
     - Hobby: Basketball
     - Profession: Student
+
+Katalia
+	- Born : Limbang, Sarawak
+	- Hobby : Listening to music
+	- Proffesion : Student
