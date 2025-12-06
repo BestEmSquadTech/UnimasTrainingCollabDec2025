@@ -2,3 +2,7 @@ Ng Boon Khai
     - Born: 2025, Jakarta, Indonesia
     - Hobby: Basketball
     - Profession: Student
+Chara Temmie
+    - Born: 2004, London, UK
+    - Hobby: Baking
+    - Profession: Student
