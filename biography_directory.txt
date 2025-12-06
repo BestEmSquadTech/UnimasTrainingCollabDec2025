@@ -2,3 +2,8 @@ Ng Boon Khai
     - Born: 2025, Jakarta, Indonesia
     - Hobby: Basketball
     - Profession: Student
+
+Bee Jia Yi
+    - Born: 2003, Perak, Malaysia
+    - Hobby: Sleep
+    - Profession: Student
