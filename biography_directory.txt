@@ -1,4 +1,9 @@
-Ng Boon Khai
-    - Born: 2025, Jakarta, Indonesia
-    - Hobby: Basketball
-    - Profession: Student
+Fatin Inarah
+	- Born: 2004, Shanghai, China
+	- Hobby: Swimming
+ 	- Profession: Student
+
+Chebby
+	- Born: 2004, Kuching, Sarawak
+	- Hobby: Playing TikTok
+	- Proffesion: Student
