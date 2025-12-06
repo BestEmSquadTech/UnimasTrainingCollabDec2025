@@ -2,3 +2,8 @@ Chung Lik Chiann
     - Born: 2004, Kota Kinabalu, Sabah
     - Hobby: Basketball
     - Profession: Student
+
+Ali
+	- Born: 2005, Kota Bharu, Perlis
+	-Hobby: Coding
+	Profession: Student
