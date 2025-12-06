@@ -13,3 +13,8 @@ Cobe
  -Hobby: Basketball
  -Profession: Athlete
 
+Yap Sin Er
+    - Born: 2003, Kuching, Sarawak
+    - Hobby: Pickle ball
+    - Profession: Student
+
