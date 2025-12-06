@@ -1,4 +1,9 @@
-Ng Boon Khai
-    - Born: 2025, Jakarta, Indonesia
-    - Hobby: Basketball
-    - Profession: Student
+Mst Fatema Akter Toma
+       -Born: 2003,Dhaka,Bangladesh
+       -Hobby: Reading Book
+       -profession: Student
+
+samia Afrin
+       -Born: 2001,Kuching,Sarawak
+       -Hobby:Gardening
+       -profession: Student
