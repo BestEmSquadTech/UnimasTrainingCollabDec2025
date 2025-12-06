@@ -23,3 +23,7 @@ Audrey Vera
     - Hobby: Anime Marathon. 
     - Profession: Student
 
+Aina
+    - Born: 2003, Kuching, Sarawak
+    - Hobby: Listen Music
+    - Profession: Student
