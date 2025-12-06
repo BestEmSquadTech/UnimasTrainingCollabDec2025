@@ -3,7 +3,14 @@ Chung Lik Chiann
     - Hobby: Basketball
     - Profession: Student
 
-Ali
+
+Izzah Maisarah
+    - Born: 2025, Malacca, Malaysia
+    - Hobby: Art
+    - Profession: Student
+    
+   Ali
 	- Born: 2005, Kota Bharu, Perlis
 	-Hobby: Coding
-	Profession: Student
+	-Profession: Student
+
