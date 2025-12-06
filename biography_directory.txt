@@ -1,4 +1,15 @@
-Ng Boon Khai
-    - Born: 2025, Jakarta, Indonesia
+Izzah 
+    - Born: 2226, Kota Kinabalu, Sabah
     - Hobby: Basketball
+    - Profession: Student
+
+
+Siti Aisyah Safiah 
+    - Born: 2004, Kuching, Sarawak
+    - Hobby: Watching kdrama
+    - Profession: Student
+
+Fatin Inarah
+    - Born: 2004, Kota Samarahan, Sarawak
+    - Hobby: Watching TikTok
     - Profession: Student
