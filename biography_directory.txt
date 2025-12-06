@@ -2,3 +2,7 @@ Ng Boon Khai
     - Born: 2025, Jakarta, Indonesia
     - Hobby: Basketball
     - Profession: Student
+Yee Pei Ling
+    -Born: 2003,Johor, Malaysia
+    -Hobby: sleep
+    -Profession: Student
