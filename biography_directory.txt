@@ -2,3 +2,9 @@ Ng Boon Khai
     - Born: 2025, Jakarta, Indonesia
     - Hobby: Basketball
     - Profession: Student
+
+Adriana Safraa
+    - Born: 2004, Johor, Malaysia
+    - Hobby: Reading
+    - Profession: Student
+ 
