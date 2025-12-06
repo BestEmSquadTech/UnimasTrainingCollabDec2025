@@ -3,4 +3,7 @@ Ng Boon Khai
     - Hobby: Basketball
     - Profession: Student
 
-Something changed
+Chung Yong Shen
+    - Born: 2002, Sarawak, Malaysia
+    - Hobby: Sleep
+    - Profession: Student
