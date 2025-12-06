@@ -13,3 +13,7 @@ Cobe
  -Hobby: Basketball
  -Profession: Athlete
 
+Ng Zi Ning
+    - Born: 2003, Perak, Malaysia
+    - Hobby: Playing Badminton
+    - Profession: Student
