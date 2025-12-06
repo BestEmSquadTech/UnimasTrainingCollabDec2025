@@ -3,6 +3,10 @@ Ng Boon Khai
     - Hobby: Basketball
     - Profession: Student
 
+Kilat
+    - Born: 2005, Kuching, Sarawak
+    - Hobby: reading 
+    - Profession: Boat driver
 Izzah Maisarah
     - Born: 2025, Malacca, Malaysia
     - Hobby: Art
