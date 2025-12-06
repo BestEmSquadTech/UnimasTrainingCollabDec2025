@@ -13,3 +13,7 @@ Cobe
  -Hobby: Basketball
  -Profession: Athlete
 
+Chung Yong Shen
+    - Born: 2002, Sarawak, Malaysia
+    - Hobby: Sleep
+    - Profession: Student
