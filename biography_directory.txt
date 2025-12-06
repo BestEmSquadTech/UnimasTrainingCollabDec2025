@@ -4,6 +4,8 @@ Ng Boon Khai
     -  Profession: Student
 
 Khalish
-    - Born: 2025, Kuching
+    - Born: 2025, Kuching, Malaysia
     - Hobby: Music
-    - Profession: Student
+    - Profession: Producer/Student
+
+
