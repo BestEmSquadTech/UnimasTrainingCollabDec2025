@@ -2,3 +2,8 @@ Ng Boon Khai
     - Born: 2025, Jakarta, Indonesia
     - Hobby: Basketball
     - Profession: Student
+
+Aurelia Eleena Anak Phillip
+	- Born: 2000, Negeri Sembilan, Malaysia
+	- Hobby: Video games
+	- Profession: Student
