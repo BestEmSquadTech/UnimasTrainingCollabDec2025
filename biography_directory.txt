@@ -7,3 +7,8 @@ Isaac Shagal
     - Born: 2004, Sarawak, Malaysia
     - Hobby: Gaming
     - Profession: Student
+
+Zack 
+    - Born: 2003, Swk, Mal
+    - Hobby: Fishing
+    -Profession: Engineer
