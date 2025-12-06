@@ -23,3 +23,7 @@ Audrey Vera
     - Hobby: Anime Marathon. 
     - Profession: Student
 
+Chulbul
+	-Born:2025, Sarawak
+	-Hobby:sleeping
+	-Profession: student
