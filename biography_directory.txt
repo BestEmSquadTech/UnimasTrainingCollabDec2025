@@ -32,3 +32,8 @@ Abu
     - Born: 2023, Miri, Sarawak
     - Hobby: Read books
     - Proffesion: Student
+
+Ali
+    - Born: 2003, Kuching, Sarawak
+    - Hobby: Badminton
+    - Profession: Student
