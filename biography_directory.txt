@@ -27,3 +27,8 @@ Aina
     - Born: 2003, Kuching, Sarawak
     - Hobby: Listen Music
     - Profession: Student
+
+Abu
+    - Born: 2023, Miri, Sarawak
+    - Hobby: Read books
+    - Proffesion: Student
