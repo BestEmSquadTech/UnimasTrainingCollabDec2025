@@ -27,3 +27,8 @@ Aina
     - Born: 2003, Kuching, Sarawak
     - Hobby: Listen Music
     - Profession: Student
+
+Ali
+    - Born: 2003, Kuching, Sarawak
+    - Hobby: Badminton
+    - Profession: Student
