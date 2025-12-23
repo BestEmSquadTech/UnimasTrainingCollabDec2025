@@ -1,6 +1,12 @@
 Ng Boon Khai
-    - Born: 2025, Jakarta, Indonesia
-    - Hobby: Basketball
+	-Born: 2025, Jakarta
+	-Hobby: Basketball
+	-Profession: Student
+
+
+Arinatasya Nadhira binti Azmir
+    - Born: 2002, Kota Kinabalu, Sabah
+    - Hobby: Drawing
     - Profession: Student
 
 Izzah Maisarah
