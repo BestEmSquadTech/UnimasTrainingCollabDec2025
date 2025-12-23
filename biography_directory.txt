@@ -3,10 +3,6 @@ Ng Boon Khai
     - Hobby: Basketball
     -  Profession: Student
 
-
-
-    - Profession: Student
-
 Izzah Maisarah
     - Born: 2025, Malacca, Malaysia
     - Hobby: Art
@@ -40,4 +36,4 @@ Abu
 Khalish
     - Born: 2025, Kuching, Malaysia
     - Hobby: Music
-    - Profession: Producer/Student
+    - Profession: Student
