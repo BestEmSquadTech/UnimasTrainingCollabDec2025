@@ -3,8 +3,38 @@ Ng Boon Khai
     - Hobby: Basketball
     - Profession: Student
 
+
 Adriana Safraa
     - Born: 2004, Johor, Malaysia
     - Hobby: Reading
     - Profession: Student
  
+Izzah Maisarah
+    - Born: 2025, Malacca, Malaysia
+    - Hobby: Art
+    - Profession: Student
+
+Cobe
+ -Born 2003, Malaysia
+ -Hobby: Basketball
+ -Profession: Athlete
+
+Yap Sin Er
+    - Born: 2003, Kuching, Sarawak
+    - Hobby: Pickle ball
+    - Profession: Student
+
+Audrey Vera 
+    - Born: 2003, Limbang, Sarawak
+    - Hobby: Anime Marathon. 
+    - Profession: Student
+
+Aina
+    - Born: 2003, Kuching, Sarawak
+    - Hobby: Listen Music
+    - Profession: Student
+
+Abu
+    - Born: 2023, Miri, Sarawak
+    - Hobby: Read books
+    - Proffesion: Student
