@@ -1,7 +1,7 @@
 Ng Boon Khai
     - Born: 2025, Jakarta, Indonesia
     - Hobby: Basketball
-    - Profession: Student
+    -  Profession: Student
 
 Izzah Maisarah
     - Born: 2025, Malacca, Malaysia
@@ -32,3 +32,8 @@ Abu
     - Born: 2023, Miri, Sarawak
     - Hobby: Read books
     - Proffesion: Student
+    
+Khalish
+    - Born: 2025, Kuching, Malaysia
+    - Hobby: Music
+    - Profession: Student
