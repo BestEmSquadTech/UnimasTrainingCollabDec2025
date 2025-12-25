@@ -1,0 +1,10 @@
+Aniq 
+	-Born : 2030, Sudan
+	-Hobby : Cycling
+	-Profession : Student
+
+Hasbullah
+	-Born : 1909, Somalia
+	-Hobby : Ballet
+	-Profession : Garbage picker
+
