@@ -1,0 +1,4 @@
+Dol
+  - Born: 2004, Osaka, Japan
+  - Hobby: Baseball
+  - Profession: student 
